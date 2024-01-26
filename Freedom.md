@@ -8,9 +8,9 @@ share: true
 * [DevOps Protocol](DevOps/DevOps%20Protocol.md)
 
 ## Guides
-* [Development Guide](Howto/Development%20Guide.md)
-* [Setting Up Production Server](Howto/Setting%20Up%20Production%20Server.md)
+* [Development Guide](./Development%2520Guide.md)
+* [Setting Up Production Server](Setting%2520Up%2520Production%2520Server.md)
 
 ## Architecture
 
-* [DMEL (Data Methods Extraction&Load)](Architecture/DMEL%20(Data%20Methods%20Extraction&Load).md)
+* [DMEL (Data Methods Extraction&Load)](DMEL%2520(Data%2520Methods%2520Extraction&Load).md)
